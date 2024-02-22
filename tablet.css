@@ -1,0 +1,36 @@
+     /* ABOUT PAGE  */
+#about {
+    width: 100%;
+    height: auto;
+}
+
+#about img {
+    width: 500px;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+.about-details {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 120vh;
+}
+
+    /* SERVICE PAGE  */
+
+#service {
+    width: 100%;
+    height: 90vh;
+}
+#service-contents{
+    width: 100%;
+    height: 70%;
+}
+
+   /* FOOTER PAGE */
+
+.footer{
+    width: 100%;
+    height: 38vh;
+}
